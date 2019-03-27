@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using StormLight2.Models;
 
-namespace StormLightArchive.DAL
+namespace StormLight2.DAL
 {
     public interface ICharacterSqlDAL
     {

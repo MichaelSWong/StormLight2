@@ -6,7 +6,7 @@ using System.Data.SqlClient;
 using StormLight2.Models;
 using Dapper;
 
-namespace StormLightArchive.DAL
+namespace StormLight2.DAL
 {
     public class SurveyDAL
     {

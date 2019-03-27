@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using StormLight2.Models;
 using System.Data.SqlClient;
 
-namespace StormLightArchive.DAL
+namespace StormLight2.DAL
 {
     public class KnightsOrdersDAL
     {
